@@ -1,0 +1,13 @@
+"H1" to "H6" tag for heading 
+"p" for paragraph tag
+"strong" for bolding a text 
+"i" for italic the text
+"a" for adding link in a page
+"img" for adding image in a page
+"br" for breaking a large line
+"hr" for adding horizental line in a page
+"abbr" for adding abbrevation
+"<!-- --!>" for multiple commenting
+"//" for single line comment
+"q" for adding quotation in a html page
+
