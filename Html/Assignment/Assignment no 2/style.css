@@ -10,10 +10,9 @@ body{
 }
 .hello{
     border: 1px solid black;
-    padding: 5px;
-   margin-left: 300px;
-   margin-right: 300px;
-    border-spacing: 10px;
+   margin-left: 20%;
+   margin-right: 20%;
+   box-sizing: border-box;
     background-color: white;
     opacity: 0.8;
     border-radius: 10px;
@@ -24,8 +23,8 @@ body{
     padding-right: 36px;
     background-color: white;
     opacity: 0.8;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 10px;
 }
 h1{
