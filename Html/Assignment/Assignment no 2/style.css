@@ -6,7 +6,23 @@ body{
     
   
 }
-
+.hello{
+    border: 1px solid black;
+    padding: 10px;
+   margin-left: 500px;
+   margin-right: 500px;
+    border-spacing: 10px;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+.name{
+    border: 1px solid black;
+    padding-left: 32px;
+    padding-right: 36px;
+    background-color: white;
+    opacity: 0.8;
+}
 h1{
     color: red;
 }
