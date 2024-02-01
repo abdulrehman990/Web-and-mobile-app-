@@ -9,6 +9,7 @@ body{
   
 }
 .hello{
+    padding: 7px;
     border: 1px solid black;
    margin-left: 20%;
    margin-right: 20%;
@@ -46,10 +47,13 @@ img{
    border-radius: 25px;
 }
 
-a{ text-decoration: none;
+a{ 
+    text-decoration: none;
     color: red;
     border: 2px solid red;
-    border-radius: 5px;
-    padding: 3px;
+    word-spacing: 10px;
+    border-radius: 3px;
+    padding: 1px;
     background-color: white;
+    font-size: smaller;
 }
