@@ -51,9 +51,8 @@ a{
     text-decoration: none;
     color: red;
     border: 2px solid red;
-    word-spacing: 10px;
     border-radius: 3px;
     padding: 1px;
+    font-size: medium;
     background-color: white;
-    font-size: smaller;
 }
